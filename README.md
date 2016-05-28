@@ -1,5 +1,5 @@
 # SR595
-Arduino Library for the SN74HC595 Shiftregister
+Arduino Library for the SN74HC595N Shiftregister
 
 Tested and Working on Arduino Uno and ESP8266-12E with Arduino IDE
 
